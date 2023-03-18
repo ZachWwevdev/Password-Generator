@@ -31,9 +31,11 @@ span {
     border-radius: 4px;
     padding-left: 10px;
     padding-right: 10px;
+    font-family: 'Inter', sans-serif;
 }
 
 #output {
+
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -41,6 +43,7 @@ span {
     border-top: 1px solid #2F3E53;
     margin-right: 100px;
     margin-left: 100px;
+    font-family: 'Inter', sans-serif;
 }
 
 .prompt {
